@@ -1,0 +1,52 @@
+commit c3793bafdce5f6e043cc81138b5b43304ea60be8
+Merge: f02da5d f8aee57
+Author: angelm191 <kevenchi504@gmail.com>
+Date:   Tue Feb 4 16:32:06 2025 -0800
+
+    fixed the conflict between main and index-fix
+
+commit f8aee57c67ec21637e2f390e7f71dcc786708546
+Author: angelm191 <kevenchi504@gmail.com>
+Date:   Tue Feb 4 16:09:37 2025 -0800
+
+    added new line into index.html (index-fix)
+
+commit f02da5d694dd06579744b2e80b38f34b16d80cf3
+Author: angelm191 <kevenchi504@gmail.com>
+Date:   Tue Feb 4 16:05:02 2025 -0800
+
+    added new line into index.html
+
+commit c47566855595d225943e072d15dcfe6accb85e16
+Merge: cfeabc8 68bdd9b
+Author: angelm191 <kevenchi504@gmail.com>
+Date:   Tue Feb 4 15:48:26 2025 -0800
+
+    Merge branch 'main' of https://github.com/angelm191/CS3338-second-project
+
+commit cfeabc8790c9c7ea4c16284dd38b9de5dde85538
+Author: angelm191 <kevenchi504@gmail.com>
+Date:   Tue Feb 4 15:46:10 2025 -0800
+
+    Added the README.md file
+
+commit 68bdd9b3b0bcfed96adfdd22435dd2dec0241911
+Merge: 1d2bfc0 9d0e9ed
+Author: angelm191 <95318485+angelm191@users.noreply.github.com>
+Date:   Tue Feb 4 15:42:08 2025 -0800
+
+    Merge pull request #1 from angelm191/info-fill
+    
+    Filled in the blanks for index.html
+
+commit 9d0e9ed4978af061ab638510c430ef018db7a783
+Author: angelm191 <kevenchi504@gmail.com>
+Date:   Tue Feb 4 15:31:47 2025 -0800
+
+    Filled in the blanks for index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
